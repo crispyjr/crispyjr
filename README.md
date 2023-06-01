@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @crispyjr
-- 👀 I’m interested in Game Dev.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C++ & Java.
-- 💞️ I’m looking to collaborate on games.
-- 📫 How to reach me: 
+- 📫 How to reach me: shishijohnson2@gmail.com
 
 <!---
 crispyjr/crispyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
